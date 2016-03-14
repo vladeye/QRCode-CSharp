@@ -1,0 +1,8 @@
+C:\Users\Vladimir Rodriguez\Downloads\QRCode\QRCode\QRCodeLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vladimir Rodriguez\Downloads\QRCode\QRCode\QRCodeLib\obj\Debug\ThoughtWorks.QRCode.Properties.Resources.resources
+C:\Users\Vladimir Rodriguez\Downloads\QRCode\QRCode\QRCodeLib\obj\Debug\ResGen.read.1.tlog
+C:\Users\Vladimir Rodriguez\Downloads\QRCode\QRCode\QRCodeLib\obj\Debug\ResGen.write.1.tlog
+C:\Users\Vladimir Rodriguez\Downloads\QRCode\QRCode\QRCodeLib\obj\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Vladimir Rodriguez\Downloads\QRCode\QRCode\QRCodeLib\obj\Debug\ThoughtWorks.QRCode.pdb
+C:\Users\Vladimir Rodriguez\Downloads\QRCode\QRCode\QRCodeLib\ThoughtWorks.QRCode.dll
+C:\Users\Vladimir Rodriguez\Downloads\QRCode\QRCode\QRCodeLib\ThoughtWorks.QRCode.pdb
